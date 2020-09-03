@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on John Ragozzine</title>
+    <link>https://ragozzine.github.io/posts/</link>
+    <description>Recent content in Posts on John Ragozzine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© John Ragozzine</copyright>
+    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ragozzine.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Velocity is a means, not an end</title>
+      <link>https://ragozzine.github.io/posts/2020-04-20-velocity-is-a-means-not-an-end/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2020-04-20-velocity-is-a-means-not-an-end/</guid>
+      <description>Being a scrum master, I often worry if velocity looms too large for me. From project forecasting to sprint planning to team retrospectives, velocity metrics are up in my grill more than bratwurst at a Green Bay Packers tailgate.</description>
+    </item>
+    
+    <item>
+      <title>Rule of Scrum</title>
+      <link>https://ragozzine.github.io/posts/2019-12-18-rule-of-scrum/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2019-12-18-rule-of-scrum/</guid>
+      <description>As a scrum master and coach, I see the phrase “doing scrum wrong” thrown around a lot. Scrum practitioners often worry about making missteps, while detractors lambast scrum as being unrealistic and too rigid for how “the real world works.</description>
+    </item>
+    
+    <item>
+      <title>A fair way to get up to par with reference stories</title>
+      <link>https://ragozzine.github.io/posts/2019-04-13-a-fair-way-to-get-up-to-par-with-reference-stories/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2019-04-13-a-fair-way-to-get-up-to-par-with-reference-stories/</guid>
+      <description>Story pointing can feel a little wishy-washy, especially on teams that are new to scrum. While the inherent ambiguity to point estimation belies its power, folks need some place to hang their hat in grasping this concept.</description>
+    </item>
+    
+    <item>
+      <title>A tale of two capacities</title>
+      <link>https://ragozzine.github.io/posts/2019-04-02-a-tale-of-two-capacities/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2019-04-02-a-tale-of-two-capacities/</guid>
+      <description>It was the best of sprints, it was the worst of sprints.
+ One reason I find scrum so invigorating stems from its reliance on compiling lots and lots of data.</description>
+    </item>
+    
+    <item>
+      <title>Sprint velocity - How scrum predicts the future</title>
+      <link>https://ragozzine.github.io/posts/2019-03-23-sprint-velocity-how-scrum-predicts-the-future/</link>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2019-03-23-sprint-velocity-how-scrum-predicts-the-future/</guid>
+      <description>A common question I am asked is “How will scrum deliver my projects on time?” and the honest answer is: it may not.</description>
+    </item>
+    
+    <item>
+      <title>2019 Resolutions - Three pluses, two minuses</title>
+      <link>https://ragozzine.github.io/posts/2018-12-31-resolutions-plus-plus-plus-minus-minus/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2018-12-31-resolutions-plus-plus-plus-minus-minus/</guid>
+      <description>I&amp;rsquo;m of the opinion that having one, solitary new year&amp;rsquo;s resolution is a bit of a cop-out. A single resolution, while admirable, is invariably too simple to fail (eat more salad) or too massive to be measurable (be a better person).</description>
+    </item>
+    
+    <item>
+      <title>Leaving WordPress for GitHub Pages</title>
+      <link>https://ragozzine.github.io/posts/2018-06-06-leaving-wordpress-for-github-pages/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2018-06-06-leaving-wordpress-for-github-pages/</guid>
+      <description>I’ve been a WordPress user since 2007, continuously maintaining personal writing sites. I grew along with the product, moving from a casual hobbyist suffering through the Famous 5-minute Install to a WordPress professional, making my living from the open source CMS.</description>
+    </item>
+    
+    <item>
+      <title>Creating an ideal epic</title>
+      <link>https://ragozzine.github.io/posts/2017-10-30-creating-an-ideal-epic/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2017-10-30-creating-an-ideal-epic/</guid>
+      <description>What I like most about managing projects with Jira is the level of organization and filtering I can achieve by tagging tickets.</description>
+    </item>
+    
+    <item>
+      <title>Hide on mobile - A `display none` allegory</title>
+      <link>https://ragozzine.github.io/posts/2016-11-20-hide-on-mobile-a-display-none-allegory/</link>
+      <pubDate>Sun, 20 Nov 2016 01:01:01 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2016-11-20-hide-on-mobile-a-display-none-allegory/</guid>
+      <description>Once upon a time, a traveler entered a nondescript pizza palace. On each of the red-and-white clothed tables were squat shakers of parmesan cheese and crushed red pepper.</description>
+    </item>
+    
+    <item>
+      <title>WordPress, In crisis</title>
+      <link>https://ragozzine.github.io/posts/2016-04-24-wordpress-in-crisis/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2016-04-24-wordpress-in-crisis/</guid>
+      <description>One of the selling points for (the free software that is) WordPress is its user friendliness. Intuitive, accessible, open—all of these words are at the root of what WordPress is and why it is of such benefit to the publishing world.</description>
+    </item>
+    
+    <item>
+      <title>Ixnay on the “you guys,” yous guys</title>
+      <link>https://ragozzine.github.io/posts/2016-03-16-ixnay-on-the-you-guys/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2016-03-16-ixnay-on-the-you-guys/</guid>
+      <description>Word choice is important, a fact not lost on famed Norse explorer Eric the Red. When he discovered a semi-inhabitable landmass northwest of his native Iceland, he knew he needed a snappy name to attract settlers.</description>
+    </item>
+    
+    <item>
+      <title>Being bitten by bytes</title>
+      <link>https://ragozzine.github.io/posts/2016-03-01-being-bitten-by-bytes/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2016-03-01-being-bitten-by-bytes/</guid>
+      <description>Collective nouns are single words for a group of things and I love them all (except for “guys”—that’s a bad one).</description>
+    </item>
+    
+    <item>
+      <title>Iterating ideas from draft to done</title>
+      <link>https://ragozzine.github.io/posts/2016-02-24-the-10-stages-of-writing-iterating-ideas-from-draft-to-done/</link>
+      <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2016-02-24-the-10-stages-of-writing-iterating-ideas-from-draft-to-done/</guid>
+      <description>The writing process can make your brain feel like processed cheese (not to mention your self-esteem). Here are 10 steps for writing that will help you bridge the gap between one-and-done-drafts and that book chapter you’ve been rewriting for years.</description>
+    </item>
+    
+    <item>
+      <title>QA will give me a bug-free website and other lies we tell ourselves</title>
+      <link>https://ragozzine.github.io/posts/2016-01-21-qa-will-give-me-a-bug-free-website-and-other-lies-we-tell-ourselves/</link>
+      <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2016-01-21-qa-will-give-me-a-bug-free-website-and-other-lies-we-tell-ourselves/</guid>
+      <description>If you work for a large corporation or on a project with limitless coffers, you have likely enjoyed working with a dedicated QA team.</description>
+    </item>
+    
+    <item>
+      <title>Interrogative project management, A four-sonnet sequence on task-level discovery</title>
+      <link>https://ragozzine.github.io/posts/2016-01-03-interrogative-project-management-a-four-sonnet-sequence-on-task-level-discovery/</link>
+      <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2016-01-03-interrogative-project-management-a-four-sonnet-sequence-on-task-level-discovery/</guid>
+      <description>Project management requires much asking
+Of clients and coders for more info
+So that a PM can get to tasking</description>
+    </item>
+    
+    <item>
+      <title>The cost of a basic WordPress site</title>
+      <link>https://ragozzine.github.io/posts/2015-12-29-cost-of-a-basic-wordpress-site/</link>
+      <pubDate>Tue, 29 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2015-12-29-cost-of-a-basic-wordpress-site/</guid>
+      <description>Stop me if you heard this one. A person walks up to a web developer and asks, “So how much would it cost for, like, a basic website?</description>
+    </item>
+    
+    <item>
+      <title>What is a CDN? A visual explanation</title>
+      <link>https://ragozzine.github.io/posts/2015-12-06-a-cdn-simple-visual-explanation/</link>
+      <pubDate>Sun, 06 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2015-12-06-a-cdn-simple-visual-explanation/</guid>
+      <description>A CDN (Content Delivery Network),more commonplace in hosting plan offerings, is a must for any business site. By hosting web content on servers spread across the globe, content can be delivered to a user faster by using relatively localized servers.</description>
+    </item>
+    
+    <item>
+      <title>How to succeed when working remotely - Lessons learned from a Chinese buffet</title>
+      <link>https://ragozzine.github.io/posts/2015-11-14-how-to-succeed-when-working-remotely-lessons-learned-from-a-chinese-buffet/</link>
+      <pubDate>Sat, 14 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2015-11-14-how-to-succeed-when-working-remotely-lessons-learned-from-a-chinese-buffet/</guid>
+      <description>Working from home can be an amazingly fulfilling career experience. Likewise, a trip to your local Chinese food buffet can be a culinary delight.</description>
+    </item>
+    
+    <item>
+      <title>Rethinking the WordPress writing experience</title>
+      <link>https://ragozzine.github.io/posts/2015-10-26-the-aux-of-wp-rethinking-the-wordpress-writing-experience/</link>
+      <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2015-10-26-the-aux-of-wp-rethinking-the-wordpress-writing-experience/</guid>
+      <description>Before I was a web professional, before all the project management, front-end coding, and CMS rejiggering, I was an English major.</description>
+    </item>
+    
+    <item>
+      <title>Seven things you can never say on project calls</title>
+      <link>https://ragozzine.github.io/posts/2015-09-29-seven-things-you-can-never-say-on-project-calls/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.github.io/posts/2015-09-29-seven-things-you-can-never-say-on-project-calls/</guid>
+      <description>The words we use communicate shades of meaning that we might not want. Here’s a list of seven words that I strive to not use when discussing a project with a client or with my team.</description>
+    </item>
+    
+  </channel>
+</rss>
