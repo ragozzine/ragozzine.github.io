@@ -392,6 +392,16 @@ table th, table td {
     border: 1px solid #dddddd;
 }
 
+.next-post {
+  padding: 10px 5px 10px 5px;
+}
+
+.previous-post {
+  text-align: right;
+  padding: 10px 5px 5px 5px;
+}
+
+
 @media (max-width: 767px) {
     body {
         padding: 20px;
