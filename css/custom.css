@@ -15,7 +15,7 @@ a, a:hover {
     word-break: break-word;
 }
 
-html,button,input,select,textarea {
+html {
     color: #333;
 }
 
@@ -416,4 +416,83 @@ table th, table td {
     .container {
         margin-top: 10px;
     }
+}
+
+/* FORM STUFF */
+
+button, input, select, textarea {
+    font-family: inherit;
+    border-radius: 0;
+    display: block;
+    width: 100%;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .3s,-webkit-box-shadow ease-in-out .3s;
+    -o-transition: border-color ease-in-out .3s,box-shadow ease-in-out .3s;
+    transition: border-color ease-in-out .3s,box-shadow ease-in-out .3s;
+    color: #eee;
+  }
+
+textarea {
+  overflow: auto;
+}
+
+.kwes-form {
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.kw-form-wrapper {
+  width: 100%;
+}
+
+.kwes-form input, textarea {
+  background-color: transparent;
+  border: 1px solid #ddd;
+  height: 45px;
+  border-radius: 0;
+  padding: 10px 0;
+  display: block;
+  width: 100%;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.kwes-form textarea {
+  height: 120px;
+}
+
+.kwes-form button {
+  width: 100%;
+  border: 1px solid #3498db;
+  color: #fff;
+  box-shadow: 0 0 40px 40px #3498db inset, 0 0 0 0 #3498db;
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all .3ms ease-in-out;
+  background: #57cbcc;
+  padding: 12px 0;
+  width: 100%;
+  margin: 0;
+  transition: all .2s ease-in 0s;
+  display: inline-block;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+}
+
+.kwes-form button:hover {
+  box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+  background: transparent;
+}
+
+.kwes-form small {
+  z-index: 1000;
+  margin: -1000px;
 }
