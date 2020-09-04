@@ -37,3 +37,8 @@ a:hover {
     text-decoration: none;
     margin: 0 1px;
 }
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+  }
