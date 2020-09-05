@@ -317,17 +317,54 @@ pre code {
     margin-top: 20px;
 }
 
+/* Tag Buttons */
+
 .post-tags .tags a {
     display: inline-block;
     border: 1px solid #a00;
     border-radius: 4px;
     padding: 0px 6px;
-    color: #a00;
+    color: #F3DB4F;
     line-height: 20px;
     font-size: 12px;
     text-decoration: none;
     margin: 0 1px;
 }
+
+.post-tags .tags a {
+  border-color: #F3DB4F;
+  border-radius: 0;
+  color: #a00;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  -webkit-transition: color 150ms ease-in-out;
+  transition: color 150ms ease-in-out;
+}
+.post-tags .tags a:after {
+  content: '';
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  width: 0;
+  height: 100%;
+  background: #F3DB4F;
+  z-index: -1;
+  -webkit-transition: width 150ms ease-in-out;
+  transition: width 150ms ease-in-out;
+}
+.post-tags .tags a:hover {
+  color: #333;
+}
+.post-tags .tags a:hover:after {
+  width: 110%;
+}
+
+/* End of Tag Buttons */
+
 
 .list .posts .post .meta {
     margin-bottom: 0;
@@ -500,9 +537,4 @@ textarea {
 .kwes-form button:hover {
   box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
   background: transparent;
-}
-
-.kwes-form small {
-  z-index: 1000;
-  margin: -1000px;
 }

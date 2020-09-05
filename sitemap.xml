@@ -13,8 +13,28 @@
   </url>
   
   <url>
+    <loc>https://ragozzine.github.io/tags/scrum/</loc>
+    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ragozzine.github.io/tags/</loc>
+    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ragozzine.github.io/tags/velocity/</loc>
+    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ragozzine.github.io/posts/2020-04-20-velocity-is-a-means-not-an-end/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ragozzine.github.io/tags/agile-coaching/</loc>
+    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -24,6 +44,11 @@
   
   <url>
     <loc>https://ragozzine.github.io/posts/2019-04-13-a-fair-way-to-get-up-to-par-with-reference-stories/</loc>
+    <lastmod>2019-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ragozzine.github.io/tags/estimation/</loc>
     <lastmod>2019-04-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,6 +69,11 @@
   
   <url>
     <loc>https://ragozzine.github.io/posts/2018-06-06-leaving-wordpress-for-github-pages/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ragozzine.github.io/tags/wordpress/</loc>
     <lastmod>2018-06-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,6 +108,11 @@
   </url>
   
   <url>
+    <loc>https://ragozzine.github.io/tags/writing/</loc>
+    <lastmod>2016-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ragozzine.github.io/posts/2016-01-21-qa-will-give-me-a-bug-free-website-and-other-lies-we-tell-ourselves/</loc>
     <lastmod>2016-01-21T00:00:00+00:00</lastmod>
   </url>
@@ -108,6 +143,11 @@
   </url>
   
   <url>
+    <loc>https://ragozzine.github.io/tags/clients/</loc>
+    <lastmod>2015-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ragozzine.github.io/posts/2015-09-29-seven-things-you-can-never-say-on-project-calls/</loc>
     <lastmod>2015-09-29T00:00:00+00:00</lastmod>
   </url>
@@ -118,10 +158,6 @@
   
   <url>
     <loc>https://ragozzine.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ragozzine.github.io/tags/</loc>
   </url>
   
 </urlset>
