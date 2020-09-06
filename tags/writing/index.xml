@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>writing on John Ragozzine</title>
-    <link>https://ragozzine.github.io/tags/writing/</link>
+    <link>https://ragozzine.me/tags/writing/</link>
     <description>Recent content in writing on John Ragozzine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© John Ragozzine</copyright>
     <lastBuildDate>Wed, 24 Feb 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ragozzine.github.io/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ragozzine.me/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Iterating ideas from draft to done</title>
-      <link>https://ragozzine.github.io/posts/2016-02-24-the-10-stages-of-writing-iterating-ideas-from-draft-to-done/</link>
+      <link>https://ragozzine.me/posts/2016-02-24-the-10-stages-of-writing-iterating-ideas-from-draft-to-done/</link>
       <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ragozzine.github.io/posts/2016-02-24-the-10-stages-of-writing-iterating-ideas-from-draft-to-done/</guid>
+      <guid>https://ragozzine.me/posts/2016-02-24-the-10-stages-of-writing-iterating-ideas-from-draft-to-done/</guid>
       <description>The writing process can make your brain feel like processed cheese (not to mention your self-esteem). Here are 10 steps for writing that will help you bridge the gap between one-and-done-drafts and that book chapter you’ve been rewriting for years.</description>
     </item>
     

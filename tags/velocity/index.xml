@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>velocity on John Ragozzine</title>
-    <link>https://ragozzine.github.io/tags/velocity/</link>
+    <link>https://ragozzine.me/tags/velocity/</link>
     <description>Recent content in velocity on John Ragozzine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© John Ragozzine</copyright>
     <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ragozzine.github.io/tags/velocity/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ragozzine.me/tags/velocity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Velocity is a means, not an end</title>
-      <link>https://ragozzine.github.io/posts/2020-04-20-velocity-is-a-means-not-an-end/</link>
+      <link>https://ragozzine.me/posts/2020-04-20-velocity-is-a-means-not-an-end/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ragozzine.github.io/posts/2020-04-20-velocity-is-a-means-not-an-end/</guid>
+      <guid>https://ragozzine.me/posts/2020-04-20-velocity-is-a-means-not-an-end/</guid>
       <description>Being a scrum master, I often worry if velocity looms too large for me. From project forecasting to sprint planning to team retrospectives, velocity metrics are up in my grill more than bratwurst at a Green Bay Packers tailgate.</description>
     </item>
     
     <item>
       <title>A tale of two capacities</title>
-      <link>https://ragozzine.github.io/posts/2019-04-02-a-tale-of-two-capacities/</link>
+      <link>https://ragozzine.me/posts/2019-04-02-a-tale-of-two-capacities/</link>
       <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ragozzine.github.io/posts/2019-04-02-a-tale-of-two-capacities/</guid>
+      <guid>https://ragozzine.me/posts/2019-04-02-a-tale-of-two-capacities/</guid>
       <description>It was the best of sprints, it was the worst of sprints.
  One reason I find scrum so invigorating stems from its reliance on compiling lots and lots of data.</description>
     </item>
     
     <item>
       <title>Sprint velocity - How scrum predicts the future</title>
-      <link>https://ragozzine.github.io/posts/2019-03-23-sprint-velocity-how-scrum-predicts-the-future/</link>
+      <link>https://ragozzine.me/posts/2019-03-23-sprint-velocity-how-scrum-predicts-the-future/</link>
       <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ragozzine.github.io/posts/2019-03-23-sprint-velocity-how-scrum-predicts-the-future/</guid>
+      <guid>https://ragozzine.me/posts/2019-03-23-sprint-velocity-how-scrum-predicts-the-future/</guid>
       <description>A common question I am asked is “How will scrum deliver my projects on time?” and the honest answer is: it may not.</description>
     </item>
     

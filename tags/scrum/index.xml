@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>scrum on John Ragozzine</title>
-    <link>https://ragozzine.github.io/tags/scrum/</link>
+    <link>https://ragozzine.me/tags/scrum/</link>
     <description>Recent content in scrum on John Ragozzine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© John Ragozzine</copyright>
     <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ragozzine.github.io/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ragozzine.me/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Velocity is a means, not an end</title>
-      <link>https://ragozzine.github.io/posts/2020-04-20-velocity-is-a-means-not-an-end/</link>
+      <link>https://ragozzine.me/posts/2020-04-20-velocity-is-a-means-not-an-end/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ragozzine.github.io/posts/2020-04-20-velocity-is-a-means-not-an-end/</guid>
+      <guid>https://ragozzine.me/posts/2020-04-20-velocity-is-a-means-not-an-end/</guid>
       <description>Being a scrum master, I often worry if velocity looms too large for me. From project forecasting to sprint planning to team retrospectives, velocity metrics are up in my grill more than bratwurst at a Green Bay Packers tailgate.</description>
     </item>
     
     <item>
       <title>Rule of Scrum</title>
-      <link>https://ragozzine.github.io/posts/2019-12-18-rule-of-scrum/</link>
+      <link>https://ragozzine.me/posts/2019-12-18-rule-of-scrum/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ragozzine.github.io/posts/2019-12-18-rule-of-scrum/</guid>
+      <guid>https://ragozzine.me/posts/2019-12-18-rule-of-scrum/</guid>
       <description>As a scrum master and coach, I see the phrase “doing scrum wrong” thrown around a lot. Scrum practitioners often worry about making missteps, while detractors lambast scrum as being unrealistic and too rigid for how “the real world works.</description>
     </item>
     
     <item>
       <title>Sprint velocity - How scrum predicts the future</title>
-      <link>https://ragozzine.github.io/posts/2019-03-23-sprint-velocity-how-scrum-predicts-the-future/</link>
+      <link>https://ragozzine.me/posts/2019-03-23-sprint-velocity-how-scrum-predicts-the-future/</link>
       <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ragozzine.github.io/posts/2019-03-23-sprint-velocity-how-scrum-predicts-the-future/</guid>
+      <guid>https://ragozzine.me/posts/2019-03-23-sprint-velocity-how-scrum-predicts-the-future/</guid>
       <description>A common question I am asked is “How will scrum deliver my projects on time?” and the honest answer is: it may not.</description>
     </item>
     
     <item>
       <title>Creating an ideal epic</title>
-      <link>https://ragozzine.github.io/posts/2017-10-30-creating-an-ideal-epic/</link>
+      <link>https://ragozzine.me/posts/2017-10-30-creating-an-ideal-epic/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ragozzine.github.io/posts/2017-10-30-creating-an-ideal-epic/</guid>
+      <guid>https://ragozzine.me/posts/2017-10-30-creating-an-ideal-epic/</guid>
       <description>What I like most about managing projects with Jira is the level of organization and filtering I can achieve by tagging tickets.</description>
     </item>
     
