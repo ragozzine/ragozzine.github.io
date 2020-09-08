@@ -120,6 +120,7 @@ h5 {
 
 h6 {
     font-size: .9rem;
+    margin-bottom: 0px;
 }
 
 .align-center {
@@ -316,6 +317,7 @@ pre code {
     margin-bottom: 0;
     margin-top: 20px;
 }
+
 
 /* Tag Buttons */
 
@@ -537,4 +539,11 @@ textarea {
 .kwes-form button:hover {
   box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
   background: transparent;
+}
+
+/* podcast player */
+
+audio {
+      width: 100%;
+      margin-top: 10px;
 }
