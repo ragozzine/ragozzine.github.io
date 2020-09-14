@@ -7,18 +7,86 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© John Ragozzine</copyright>
-    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://ragozzine.me/podcasts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ragozzine.me/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Episode 19. Hunting for Impediments</title>
+      <link>https://ragozzine.me/podcasts/episode-19-hunting-for-impediments/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.me/podcasts/episode-19-hunting-for-impediments/</guid>
+      <description>A good scrum master removes impediments raised by the team. But, a great scrum master removes impediments before the team even knows they have them.</description>
+    </item>
     
     <item>
-      <title>3. Interview with JJ Sutherland</title>
+      <title>Episode 8. Agile Design</title>
+      <link>https://ragozzine.me/podcasts/episode-8-agile-design/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.me/podcasts/episode-8-agile-design/</guid>
+      <description>How do the cadence and depth of user experience research and design thinking map to Scrum? Alley&amp;rsquo;s VP of UX, Susan Finkelpearl, explains it all (in the name of the Pittsburgh Steelers).</description>
+    </item>
+    
+    <item>
+      <title>Episode 7. Continuous Improvement with Kaizen</title>
+      <link>https://ragozzine.me/podcasts/episode-7-continuous-improvement-with-kaizen/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.me/podcasts/episode-7-continuous-improvement-with-kaizen/</guid>
+      <description>A Scrum team should be continuously working to improve their output, their process, and themselves. One way to foster this progress is through Kaizen tickets each sprint.</description>
+    </item>
+    
+    <item>
+      <title>Episode 6. Bring a Buffer</title>
+      <link>https://ragozzine.me/podcasts/episode-6-bring-a-buffer/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.me/podcasts/episode-6-bring-a-buffer/</guid>
+      <description>How can you gracefully handle the inevitable interruptions and urgencies that crop up for your Scrum team sprint? By bringing a buffer to every sprint!</description>
+    </item>
+    
+    <item>
+      <title>Episode 5. Sprint Retros</title>
+      <link>https://ragozzine.me/podcasts/episode-5-sprint-retros/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.me/podcasts/episode-5-sprint-retros/</guid>
+      <description>One of the ways to drive continuous improvement on a Scrum team is with the Sprint Retrospective. Listen to Ken, John, and special guest Jaimie Olmstead share how they maximize team growth and process improvement with this Scrum ritual.</description>
+    </item>
+    
+    <item>
+      <title>Episode 4. Product Backlog</title>
+      <link>https://ragozzine.me/podcasts/episode-4-product-backlog/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.me/podcasts/episode-4-product-backlog/</guid>
+      <description>Scrum has two backlogs. This episode is about the Product Backlog, which contains all the work we might do in a project.</description>
+    </item>
+    
+    <item>
+      <title>Episode 3. Interview with JJ Sutherland</title>
       <link>https://ragozzine.me/podcasts/episode-3-interview-with-jj-sutherland/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ragozzine.me/podcasts/episode-3-interview-with-jj-sutherland/</guid>
       <description>Q&amp;amp;A with JJ Sutherland, the CEO of Scrum Inc and author of Scrum: The Art of Doing Twice the Work in Half the Time and The Scrum Fieldbook.</description>
+    </item>
+    
+    <item>
+      <title>Episode 2. Is Scrum too rigid?</title>
+      <link>https://ragozzine.me/podcasts/episode-2-is-scrum-too-rigid/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.me/podcasts/episode-2-is-scrum-too-rigid/</guid>
+      <description>Do the foundational rules of Scrum interfere with project productivity and flow? Let&amp;rsquo;s find out in this episode!</description>
+    </item>
+    
+    <item>
+      <title>Episode 1. Why Scrum?</title>
+      <link>https://ragozzine.me/podcasts/episode-1-why-scrum/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.me/podcasts/episode-1-why-scrum/</guid>
+      <description>I work at Alley: a fully remote web agency. Back in 2018, we put the entire agency through an Agile transformation, and now are a dedicated Scrum@Scale shop.</description>
     </item>
     
   </channel>
