@@ -3,18 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ragozzine.me/podcasts/episode-20-scrum-in-a-remote-agency-environment/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ragozzine.me/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ragozzine.me/podcasts/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ragozzine.me/podcasts/episode-19-hunting-for-impediments/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ragozzine.me/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <loc>https://ragozzine.me/podcasts/episode-18-scrum-metrics-and-performance-tracking/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ragozzine.me/podcasts/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
+    <loc>https://ragozzine.me/podcasts/episode-17-backlog-refinement/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ragozzine.me/podcasts/episode-16-no-bosses/</loc>
+    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ragozzine.me/podcasts/episode-15-scrum-roles/</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ragozzine.me/podcasts/episode-14-scrum-at-home/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ragozzine.me/podcasts/episode-13-make-work-visible/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ragozzine.me/podcasts/episode-12-i-love-it-when-sprint-planning-comes-together/</loc>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ragozzine.me/podcasts/episode-11-sprint-goals/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ragozzine.me/podcasts/episode-10-live-show-rethinking-the-daily-standup/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ragozzine.me/podcasts/episode-9-story-points/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
