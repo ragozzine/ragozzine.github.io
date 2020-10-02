@@ -1,32 +1,33 @@
 /* Fonts */
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&family=Sanchez:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Biryani:wght@300;700&family=Zilla+Slab:wght@300&display=swap');
+
+:root {
+  --bg: #f7f8fc;
+  --text: #564e52;
+  --primary: #0074e1;
+  --secondary: #faed26;
+  --serif: 'Zilla Slab', serif;
+  --sans: 'Biryani', sans-serif;
+}
 
 body {
-    font-family: 'IBM Plex Mono', monospace;
-    font-weight: 400;
-    color: #333;
-    line-height: 1.6;
-    font-size: 16px;
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
+  font-weight: 200;
+  line-height: 2;
+  font-size: 1rem;
+  letter-spacing: .05rem;
 }
 
 a, a:hover {
-    color: #a00;
+    color: var(--primary);
     text-decoration: none;
     word-break: break-word;
 }
 
 html {
-    color: #333;
-}
-
-::-moz-selection {
-    background: #b3d4fc;
-    text-shadow: none;
-}
-
-::selection {
-    background: #b3d4fc;
-    text-shadow: none;
+    color: var(--text);
 }
 
 hr {
@@ -69,7 +70,7 @@ blockquote {
     font-size: 1.4rem;
     font-family: Georgia,bitstream charter,serif;
     border-left: 3px solid;
-    border-color: #a00;
+    border-color: var(--primary);
     padding-left: 20px;
 }
 
@@ -82,20 +83,24 @@ blockquote em {
     font-weight: 600;
 }
 
-a,a:hover {
-    color: #a00;
-    text-decoration: none
-}
-
-a:hover {
-    text-decoration: underline
-}
+a {
+    text-decoration:none;
+    border-bottom: 1px solid var(--secondary);
+    box-shadow: inset 0 -10px 0  var(--secondary);
+    color: var(--primary);
+    transition: background 0.2s cubic-bezier(.33,.66,.66,1);
+  }
+  
+  a:hover {
+    background:  var(--secondary);
+    transition: .5s;
+  }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Sanchez', serif;
+    font-family: var(--serif);
     line-height: 1.2;
-    color: #333;
-    font-weight: 200;
+    color: var(--primary);
+    font-weight: 300;
 }
 
 h1 {
@@ -171,8 +176,24 @@ ul {
 }
 
 .site-title a {
-	color: #333;
+	color: var(--text);
 	text-decoration: none !important;
+}
+
+.header h2 {
+    color: var(--text);
+}
+
+.flat a[href] {
+    text-decoration: none;
+    border-bottom: 0px;
+    box-shadow: none;
+}
+
+.flat a:hover {
+    color: var(--secondary);
+    background: none;
+    transition: 0.3s;
 }
 
 .post ul li {
@@ -305,7 +326,7 @@ pre code {
 }
 
 .post .draft-label {
-    color: #a00;
+    color: var(--primary);
     text-decoration: none;
     padding: 2px 4px;
     border-radius: 4px;
@@ -323,7 +344,7 @@ pre code {
 
 .post-tags .tags a {
     display: inline-block;
-    border: 1px solid #a00;
+    border: 1px solid var(--primary)
     border-radius: 4px;
     padding: 0px 6px;
     color: #F3DB4F;
@@ -336,7 +357,7 @@ pre code {
 .post-tags .tags a {
   border-color: #F3DB4F;
   border-radius: 0;
-  color: #a00;
+  color: var(--primary);
   position: relative;
   overflow: hidden;
   z-index: 1;
