@@ -88,7 +88,7 @@ a {
     border-bottom: 1px solid var(--secondary);
     box-shadow: inset 0 -10px 0  var(--secondary);
     color: var(--primary);
-    transition: background 0.2s cubic-bezier(.33,.66,.66,1);
+    transition: 0.4s cubic-bezier(.33,.66,.66,1);
   }
   
   a:hover {
@@ -188,12 +188,13 @@ ul {
     text-decoration: none;
     border-bottom: 0px;
     box-shadow: none;
+    transition: 0.5s ease;
 }
 
 .flat a:hover {
     color: var(--secondary);
     background: none;
-    transition: 0.3s;
+    transition: 0.5s ease;
 }
 
 .post ul li {
@@ -248,8 +249,8 @@ pre code {
 }
 
 .header nav {
-    margin-top: 20px;
-    border-top: 1px solid #f4f4f4;
+    margin-top: 0px;
+    border-top: 0px solid #f4f4f4;
 }
 
 .header nav ul,
@@ -273,6 +274,7 @@ pre code {
 .header .site-description {
     display: flex;
     justify-content: space-between;
+    border-bottom: 1px solid #ddd;
 }
 
 .header .site-description nav {
