@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ragozzine.me/podcasts/episode-20-scrum-in-a-remote-agency-environment/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+    <loc>https://ragozzine.me/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ragozzine.me/</loc>
+    <loc>https://ragozzine.me/posts/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ragozzine.me/posts/rejecting-master-for-main/</loc>
+    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ragozzine.me/podcasts/episode-20-scrum-in-a-remote-agency-environment/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -105,11 +115,6 @@
   <url>
     <loc>https://ragozzine.me/podcasts/episode-1-why-scrum/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ragozzine.me/posts/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>

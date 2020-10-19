@@ -570,3 +570,9 @@ audio {
       width: 100%;
       margin-top: 10px;
 }
+
+
+code {
+    background-color: #00e393;
+    padding: 5px;
+}

@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© John Ragozzine</copyright>
-    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ragozzine.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ragozzine.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rejecting Master for Main</title>
+      <link>https://ragozzine.me/posts/rejecting-master-for-main/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ragozzine.me/posts/rejecting-master-for-main/</guid>
+      <description>Recently, I launched a new open source project. Unofficially called the Last First Letter Collab, the story is built using a writing pattern: a sentence’s first word must begin with the previous sentence&amp;rsquo;s last word&amp;rsquo;s last letter.</description>
+    </item>
+    
     <item>
       <title>Episode 20. Scrum in a Remote Agency Environment</title>
       <link>https://ragozzine.me/podcasts/episode-20-scrum-in-a-remote-agency-environment/</link>
