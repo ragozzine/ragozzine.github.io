@@ -4,11 +4,12 @@ date: 2016-11-20
 slug: "hide-on-mobile"
 draft: false
 tags: ["tech", "fiction"]
-math: false
-toc: false
+excerpt_separator: <!--more-->
 ---
 
 Once upon a time, a traveler entered a nondescript pizza palace. On each of the red-and-white clothed tables were squat shakers of parmesan cheese and crushed red pepper. The air smelled of garlic, oregano, and all the trappings of traditional East Coast pizzerias.
+
+<!--more-->
 
 The traveler approached the counter, surveying the options available. Pepperoni sounded good. “Shopkeep! I’d like a pepperoni slice, if you will.”
 
