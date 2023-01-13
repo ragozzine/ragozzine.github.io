@@ -4,13 +4,14 @@ date: 2019-04-13
 slug: "reference-stories"
 draft: false
 tags: ["estimation"]
-math: false
-toc: false
+excerpt_separator: <!--more-->
 ---
 
 Story pointing can feel a little wishy-washy, especially on teams that are new to scrum. While the inherent ambiguity to point estimation belies its power, folks need some place to hang their hat in grasping this concept.
 
 Time estimation feels so much safer to people because of its universality. Time zones be damned, but an hour in New York City is the same span of time as an hour in Paris, Melbourne, or Bangkok. Even though hours, minutes, and seconds are just human constructs, since they are an everyday shared experience, guessing the time it will take to do something feels more precise than using the Fibonacci sequence. While we have mostly overcome the variance of a mechanically-slow timepiece, if you’ve ever felt the panic on the morning of daylight saving when your car’s clock is an hour off, you know how tenuous a concept time truly is.
+
+<!--more-->
 
 Story pointing denies the placating certitude of time and embraces the inexactness of estimation with open arms. With Fibonacci estimation, the difference between a *2* and a *3* isn’t math. It’s a subjective judgment call made by each member of the team. And just like how hours work globally because we all take our cues from the World Clock, teams need to base their decisions using the same benchmarks to unlock the true value of story points *and* team velocity. This can be accomplished by using reference stories.
 
