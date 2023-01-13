@@ -20,7 +20,7 @@ When it comes to the average WordPress user, not everyone who wants to publish c
 ## WordPress.com
 In placing myself in the mind of someone without WordPress experience who is also dealing with trauma, odds are they would turn to the free [WordPress.com](https://wordpress.com/). If I ignore the homepage choices and click directly on the (appropriately) neutral _Create Website_ button, I am immediately forced into a choice:
 
-![](/images/wpdotcom-onboarding.jpg)
+![](/assets/images/wpdotcom-onboarding.jpg)
 
 One trend you’ll see throughout my review is that it seems developers equate accessible technology with enthusiasm, so a lot of microcopy is not made up of statements, but rather of shouted phrases, complete with copious exclamation points. _Create your blog today!_ I am...told? Encouraged to do? Instructed? Whether this lead-in is an excited statement of support or a forceful edict, I’m not sure a person-in-crisis needs a commander nor a cheerleader.
 
@@ -35,7 +35,7 @@ At this point, we can shift examination to include both a free WordPress.com sit
 
 The site I set up for this crisis article uses the on-the-nose title _My crisis_ because WordPress forces you to name your site when you install / create it, which programmatically makes sense. I also was forced to make a site description, so complied with the on topic _I am in crisis_. Lastly, I opted to use the Twenty Sixteen theme because, with no other themes installed, this is the current default look and arguably shows what Automattic thinks a baseline theme should be nowadays.
 
-![](/images/wp-in-crisis.jpg)
+![](/assets/images/wp-in-crisis.jpg)
 
 Again, our person-in-crisis is immediately yelled at with a few exclamatory content pieces. Why is technology always defaulting to a pep rally? _Who has school spirit? We do!_
 
