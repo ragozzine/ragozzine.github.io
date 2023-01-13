@@ -5,8 +5,8 @@ slug: "draft-to-done"
 draft: false
 tags: ["writing"]
 math: false
-toc: true
 layout: post
+excerpt_separator: <!--more-->
 ---
 
 The writing process can make your brain feel like processed cheese (not to mention your self-esteem). Here are 10 steps for writing that will help you bridge the gap between one-and-done-drafts and that book chapter you’ve been rewriting for years.
