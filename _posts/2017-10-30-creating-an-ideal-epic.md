@@ -4,13 +4,14 @@ date: 2017-10-30
 slug: "jira-epic"
 draft: false
 tags: ["pm", "tech"]
-math: false
-toc: false
+excerpt_separator: <!--more-->
 ---
 
 What I like most about managing projects with Jira is the level of organization and filtering I can achieve by tagging tickets. As someone who used to keep his CD collection in alphabetical order by artist (with secondary ordering done by year), the tagging options help me structure projects in a deeply satisfying way&mdash;except for labels, which totally bite (mostly).
 
-![](/images/labels-bite.gif)
+<!--more-->
+
+![](/assets/images/labels-bite.gif)
 
 While not everyone uses components or fix versions (though you SHOULD) just about everyone who manages projects in Jira ought to make use of epics. And more over, everyone ought to use epics optimally. I know without a doubt that when I first started using Jira, I leveraged epics embarrassingly poorly. But I don’t blame my past self (or anyone) for “misusing” epics in Jira. Have you ever read [Atlassian’s definition of an epic](https://confluence.atlassian.com/agile/glossary/epic)?
 
