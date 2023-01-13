@@ -4,8 +4,7 @@ date: 2016-03-01
 slug: "bitten-by-bytes"
 draft: false
 tags: ["tech"]
-math: false
-toc: false
+excerpt_separator: <!--more-->
 ---
 
 Collective nouns are single words for a group of things and I love them all (except for “guys”&mdash;that’s a bad one). I especially enjoy animal group names. Get three or more bears together, and it’s known as a sleuth. Same with a pride of lions, a bale of turtles, or a romp of otters. [Bird collectives have the best names](http://birding.about.com/od/birdingglossary/a/groupsofbirds.htm): a murder of crows, a chain of bobolinks, a deceit of lapwings.
@@ -13,6 +12,8 @@ Collective nouns are single words for a group of things and I love them all (exc
 Group terminology goes further than animals. A collective of houses could be a town. Words group together to form sentences. And a website is nothing more that a collective of files. A pile of files.
 
 In this file pile, some items relate to simple things like font size or color choices. Others control complex things like data tracking and form handling. But surprisingly, more often than not, the largest files in the pile are the ones that do the least: images.
+
+<!--more-->
 
 Yup, images. A file that doesn’t really DO anything beyond sitting there looking pretty carries the most heft.
 
@@ -33,58 +34,58 @@ By way of examples, I used [WebPageTest.org](http://www.webpagetest.org/) to ana
 ### NYTimes.com
 The <a href="http://www.webpagetest.org/breakdown.php?test=160228_7V_D8G">results for NYTimes.com</a> showed 39.6% of the file weight for their homepage being images, which isn’t too bad. But, I am going to lump in their custom fonts. I’m making some assumptions here, but the font files must be things like SVG sprites, so I’m going to include them (they are not typical web fonts so take more to download). I am also willfully IGNORING THE FLASH FILES THEY LOAD because ignoring Flash is the only sensible stance to take; odds are those are ads anyway.
 
-![](/images/speedtest-nyt.jpg)
+![](/assets/images/speedtest-nyt.jpg)
 
 **Final Tally: 51.5%** of all files loaded are image files, which is a bit more than half.
 
 ### Whitehouse.gov
 Because I am a good American, I [tested WhiteHouse.gov](http://www.webpagetest.org/breakdown.php?test=160228_55_D7F) next. Once you include more pesky SVG fonts, we see that image files make up nearly 3/4 of the total homepage file size, which is pretty staggering. Talk about Washington DC bloat eh? Eh? Moving on...
 
-![](/images/speedtest-whitehouse.jpg)
+![](/assets/images/speedtest-whitehouse.jpg)
 
 **Final Tally: 69.5+%** of the White House’s homepage goes to loading image files.
 
 ### Twitter
 Having focused on a publisher and a government site worried more about security than performance, I shifted gears and [tested Twitter](http://www.webpagetest.org/breakdown.php?test=160228_GF_D75). Not logged in and snappy Twitter, but the “Look at all we have to say—come join us” marketing masonry presented to non-logged in visitors. Most of the tweets displayed had images associated, which explains this page’s image heft weighing in at a little over half.
 
-![](/images/speedtest-twitter.jpg)
+![](/assets/images/speedtest-twitter.jpg)
 
 **Final Tally: 55.7%** of the files downloaded to display Twitter’s homepage are images.
 
 ### Wikipedia.org
 Stymied by my results thus far, I decided to [test Wikipedia’s plain ol’ no-language-set homepage](http://www.webpagetest.org/breakdown.php?test=160228_49_D5Q), which has nearly no images on it. And despite that fact, it actually came in a little HIGHER than Twitter.
 
-![](/images/speedtest-wiki.jpg)
+![](/assets/images/speedtest-wiki.jpg)
 
 **Final Tally: 56.5%** of files fetched to build Wikipedia’s homepage are images.
 
 ### CodePen.io
 I really wanted to find a site with a good balance of files, so I thought, “What’s a site that is made BY web-savvy folks FOR web-savvy folks?” Naturally, I [thought of Codepen](http://www.webpagetest.org/breakdown.php?test=160228_FD_DAR) and found something very interesting in its results. Its homepage’s image weight only clocked in at 25.2%, but the fonts requires to display the page came in at a crushing 31.4% (which to me, proves my SVG sprite hypothesis from the NYT site).
 
-![](/images/speedtest-codepen.jpg)
+![](/assets/images/speedtest-codepen.jpg)
 
 **Final Tally: 56.6%** of the file weight sprouts from sprites and images.
 
 ### A List Apart
 Now, to be fair, Codepen is doing a LOT with their site, so I obviously give them a pass. What about the website that supports so much forward-thinking publishing for the front-end web world: A List Apart. I figured it would be about the same as The New York Times homepage, maybe even lighter given the limited homepage scope. But <a href="http://www.webpagetest.org/breakdown.php?test=160228_J3_D9H">my tests actually came in higher</a>. How much higher?
 
-![](/images/speedtest-ala.jpg)
+![](/assets/images/speedtest-ala.jpg)
 
 **Final Tally: 59.1%** image-file weight for A List Apart’s homepage, potentially higher if we knew what the _Other_ wedge denoted.
 
 ### Drupal.org / WordPress.org
 Perhaps the open source community would fare better? I ran speed tests for both [Drupal.org](http://www.webpagetest.org/breakdown.php?test=160228_VC_D74) and [WordPress.org](http://www.webpagetest.org/breakdown.php?test=160228_KM_D70). In both cases, what I found surprised me.
 
-![](/images/speedtest-drupal.jpg)
+![](/assets/images/speedtest-drupal.jpg)
 
-![](/images/speedtest-wp.jpg)
+![](/assets/images/speedtest-wp.jpg)
 
 **Final Tally: 69.5% of the files Drupal.org** says you need for their homepage are images, while **49+% of WordPress.org** homepage is made up of image bytes.
 
 ### Flickr
 Clearly images are important to all these sites; they’re typically dedicating more than half a browser’s efforts to displaying them. What about a site that is all about images? I [tested Flickr](http://www.webpagetest.org/breakdown.php?test=160228_VE_VTF) and it did not disappoint.
 
-![](/images/speedtest-flickr.jpg)
+![](/assets/images/speedtest-flickr.jpg)
 
 **Final Tally: 88.4%** of Flickr’s homepage is made up of sweet, sweet images.
 
@@ -93,7 +94,7 @@ _Quis custodiet ipsos custodes?_ / Who watches the watchmen?
 
 Putting the shoe on the other foot, my [final test was on WebPageTest.org](http://www.webpagetest.org/breakdown.php?test=160228_J4_D8S) itself! Despite the only images being branding and their giant Partners sprite at the bottom of the homepage, the results show that even the watchmen need to go on a diet.
 
-![](/images/speedtest-wpt.jpg)
+![](/assets/images/speedtest-wpt.jpg)
 
 **Final Tally: 34.2%** of what loads every time to want to test a site is images.
 
@@ -118,28 +119,28 @@ So how did a few select sites do when given a second chance?
 
 Whitehouse.gov and WordPress.org both did much better. While Wikipedia broke even and WPT did worse.
 
-![](/images/speedtest-whitehouse_REPEAT.jpg)
+![](/assets/images/speedtest-whitehouse_REPEAT.jpg)
 
-![](/images/speedtest-wp_REPEAT.jpg)
+![](/assets/images/speedtest-wp_REPEAT.jpg)
 
-![](/images/speedtest-wiki_REPEAT.jpg)
+![](/assets/images/speedtest-wiki_REPEAT.jpg)
 
-![](/images/speedtest-wpt_REPEAT.jpg)
+![](/assets/images/speedtest-wpt_REPEAT.jpg)
 
 Let’s review some scoring to figure out why.
 
 ### Whitehouse.gov
-![](/images/speedtest-whitehouse_SCORE.jpg)
+![](/assets/images/speedtest-whitehouse_SCORE.jpg)
 
 Despite not compressing their images, the Whitehouse folks did a good job with page caching and an excellent job with using a CDN. Nearly no images had to be re-downloaded during their second pass.
 
 ### Wikipedia
-![](/images/speedtest-wiki_SCORE.jpg)
+![](/assets/images/speedtest-wiki_SCORE.jpg)
 
 Wikipedia scored poorly for caching, and was awarded an “N/A” for compressing of images. The latter means WPT couldn’t “find” any images on the site, which still doesn’t make sense to me. Wikipedia does NOT use a CDN (effectively), so got dinged here as well. That’s why all the images downloaded for the first scan had to be re-downloaded for the second. No es bueno.
 
 ### WPT
-![](/images/speedtest-wpt_SCORE.jpg)
+![](/assets/images/speedtest-wpt_SCORE.jpg)
 
 Despite great scores for many categories, WPT scored “worse” for image file percentages (74.8%) for their second scan. I use quotes because it might be math screwing with us. My guess is that the caching combined with the CDN altered the file ratio, making images stick out like a sore, fat thumb. Remember, if all you download is a single file, that’s 100% of what you downloaded. Damn you, math!
 
