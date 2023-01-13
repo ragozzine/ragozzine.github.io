@@ -4,13 +4,14 @@ date: 2016-01-21
 slug: "qa-lies"
 draft: false
 tags: ["qa"]
-math: false
-toc: false
+excerpt_separator: <!--more-->
 ---
 
 If you work for a large corporation or on a project with limitless coffers, you have likely enjoyed working with a dedicated QA team. You build the website or oversee the coding efforts then hand off your labors to a separate team who systematically kicks the tires and identifies bugs with your work, reporting back on everything.
 
 But, for the bulk of web work, QA and testing is not done by a standalone team with that single purpose. Rather, it’s one of many hats worn by everyone on a build team. Whether you’re a developer or a designer or a PM, everyone has a role in the QA process.
+
+<!--more-->
 
 So what’s a PM’s role in QA? Well, besides testing finished work BEFORE the client gets access to it, a project manager’s primary role in QA is to set the proper expectations. This expectation-setting is twofold:
 
@@ -24,7 +25,7 @@ I do not mean this as a defense of rigid, immutable requirements documents; a fe
 
 Just because I pull into a gas pump on the wrong side of the car does NOT mean my car was built incorrectly. I either [had the wrong expectations as to where to access the gas cap](https://www.youtube.com/watch?v=bwog7Z858iE), or I am not driving the car that I am used to, so acted on misplaced habits. The same is true when expectations either are not or are inadequately set with clients. When they don’t see what they assumed they would, they will flag it as a bug. But this isn’t a coding issue&mdash;it’s a project management issue and as such, needs to be handled as part of any project communication workflow.
 
-![](/images/PpopHm.jpg)
+![](/assets/images/PpopHm.jpg)
 Most cars nowadays have a little arrow to help you remember which side of the car the tank access is located. Still, I literally double-check this each time I pull up to a gas station. I do this out of fear of embarrassment because OF COURSE EVERYONE PAYS ATTENTION TO ME WHEN I PUMP GAS. #automobilemicrocopy"
 
 ## QA won’t find every issue
