@@ -4,11 +4,12 @@ date: 2015-09-29
 slug: "7-things-you-can-never-say"
 draft: false
 tags: ["clients"]
-math: false
-toc: true
+excerpt_separator: <!--more-->
 ---
 
 The words we use communicate shades of meaning that we might not want. Here’s a list of seven words that I strive to not use when discussing a project with a client or with my team.
+
+<!--more-->
 
 ## 1. Should
 This is the cardinal sin of any client communication. “We should be able to get back to you midweek.” “This code should fix the issue you are seeing.” _Should_ is a wishy-washy, slouching word of ill repute. It’s vague and noncommittal. You need to define the expectation you are setting with your clients clearly or how can you know if expectations have been met? _Should_ does not promise anything.
