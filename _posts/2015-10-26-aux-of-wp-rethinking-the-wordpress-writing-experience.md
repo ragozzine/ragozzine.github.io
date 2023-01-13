@@ -4,16 +4,17 @@ date: 2015-10-26
 slug: "wordpress-writing-experience"
 draft: false
 tags: ["wordpress"]
-math: false
-toc: false
+excerpt_separator: <!--more-->
 ---
 
 Before I was a web professional, before all the project management, front-end coding, and CMS rejiggering, I was an English major. My BA is in writing and, as such, I tend to approach most things I do from the stance of an author.
 
 That being said, the Author User Experience (AUX) of WordPress has been on my mind for a while now. To me, regardless of use, WordPress is about sharing content: articles, images, audio, video. Specifically, WordPress is all about words. It’s right in the name and everything!
 
+<!--more-->
+
 When I look at the WordPress admin as it stands now, I see so many amazing author tools. But I only see them because I know where to look—I have been using the tool since 2007 ([WP 2.1 - Ella](https://wordpress.org/news/2007/01/ella-21/)) and have watched it grow.
-![](/images/wp-through-the-years.png)
+![](/assets/images/wp-through-the-years.png)
 
 But familiarity or not, the WordPress authoring experience leaves much to be desired. In fact, I never write new content directly in the WP admin. Rather, I compose my drafts in some outside word processing application (typically Google Docs, but I’ve often just typed out posts in a plain text editor like Notepad or TextEdit). I never thought much of it, but the question must be asked: why do I do this? The obvious answer is because the writing experience inside of WordPress is disruptively jostling, but what specifically is breaking my authoring flow?
 
@@ -27,13 +28,13 @@ So perhaps an author enters a placeholder title for the time being. Once a WP po
 
 And as jarring as that might be, if you have entered a misspelled word into the title field, there is no red squiggly signifier of your error. Instead, a permalink is generated with the typo for all to see.
 
-![](/images/typo-title.png)
+![](/assets/images/typo-title.png)
 
 What’s great here is that WordPress does allow you to edit the slug, or will automatically generate a new one if the title is changed and re-saved, but it’s still a distraction to the writing process, placing many choices and interactions ahead of the author just typing out their thoughts.
 
 Now, authors could ignore the title field to start (my weirdo brain has trouble doing so), but again, this is WordPress is asking writers to immediately step out of the writing process and actively overlook the (assumed) desired workflow.
 
-![](/images/no-title-drafts.png)
+![](/assets/images/no-title-drafts.png)
 
 Plus, even if you gracefully ignore the title field, once the untitled post is saved, it is given a temporary URL, like _**<a href="http://www.yoursitename.com/113-98">www.yoursitename.com/113-98</a>**_, that does not clue you in on the post’s topic. It’s also pretty ugly to see that advertised just above the writing window. And if you step away from writing and try to come back to this later via the All Posts screen, the presentation of untitled posts is: _**(no title) - Draft**_. I typically have a few articles in the creation hopper, so this lack of identifier is troubling and will require a few clicks to find the sought after draft.
 
@@ -42,7 +43,7 @@ Now, let’s leave the title behind us and move on to the actual writing experie
 ### The WYSIWYG
 The WYSIWYG (What You See Is What You Get) is the field to enter all of your article’s content. There are a LOT of controls here. Buttons for adding Media, toggles between the Visual mode and the TEXT mode (being a recovering coder, I prefer the latter), and oodles of formatting options. Again, this is all visual noise standing between the author and their writing. It would be great if all of these things could be hidden or minimized to a single button, similar to how Gmail handles their beneath-the-writing-pane text formatting toolbar.
 
-![](/images/gmail-formatting.png)
+![](/assets/images/gmail-formatting.png)
 
 The writing field itself is so dinky in WordPress. It’s jammed between the left navigation and the right column of metaboxes for various tasks. I find the actual space for writing my posts within WordPress as too narrow. It’s treated just like any other metabox on the page and feels less like an opportunity to express oneself as a form field on the DMV’s website.
 
@@ -52,7 +53,7 @@ To start with the latter, one could use the Screen Options tab to scale down to 
 
 Distraction-free mode is WordPress’s attempt to dismiss all that visual flotsam and let the author just write. And yes, it makes a good deal of stuff disappear from view, but the writing pane itself does not grow at all. It just stays the same, like it’s saving the place of the left nav. It’s just left stranded slightly off-center in a field of beige-y gray.
 
-![](/images/distraction-free.png)
+![](/assets/images/distraction-free.png)
 
 I’d love to see the screen space dedicated to writing (remember, this is the admin page **for writing**) to be maximized as much as possible. As mentioned earlier, hiding the formatting tool is a good first step, but let’s use that screen real estate. Let go of the textbox look and feel and, instead, inspire authors to create by giving them a canvas that looks the part.
 
@@ -74,7 +75,7 @@ Any WordPress professional has tried to explain the difference between categorie
 
 With categories, I can a more deliberate engagement of the AUX by building a prompt right into the admin’s navigational layout. Historically, blog themes have used language like _Filed in_ for categories, which connotes an archival placement. So rather than shove the Category metabox off to the side or way down the page, tap into the mental process of the author as creator and lead with it.
 
-![](/images/post-in-cat.png)
+![](/assets/images/post-in-cat.png)
 
 With tags, the WordPress admin is much for freeform, which I like. Tags are just no pressure and presented as such. And while we could retread the aforementioned screen-placement-of-the-metabox line of critique, let’s instead think about how we tag our content.
 
