@@ -4,11 +4,12 @@ date: 2016-03-16
 slug: "you-guys"
 draft: false
 tags: ["language", "writing"]
-math: false
-toc: false
+excerpt_separator: <!--more-->
 ---
 
 Word choice is important, a fact not lost on famed Norse explorer [Eric the Red](https://en.wikipedia.org/wiki/Erik_the_Red). When he discovered a semi-inhabitable landmass northwest of his native Iceland, he knew he needed a snappy name to attract settlers. How else would you get people to move to a giant, rocky ice slab [roughly the size of the midwestern United States](http://www.mylifeelsewhere.com/compare/united-states/greenland)?And so he dubbed it “Greenland” and tapped into the verdant dreams of his people, thereby successfully pulling off the greatest bait-and-switch ever.And while some word choices can birth a nation, others have the power to elevate (a Subway “sandwich artist”) or deride (literally any racial slur). But many words are more nuanced in how we use them and how they affect both people, or an environment.
+
+<!--more-->
 
 Informally, _guys_ is a catchall for a group of people, regardless of sex. But, used singly, it’s a male noun. So if you extrapolate, using “guys” for a mixed gender group paints everyone with a thick enamel of masculinity. Using this in a professional setting is a bad habit that I encourage you to break.
 
