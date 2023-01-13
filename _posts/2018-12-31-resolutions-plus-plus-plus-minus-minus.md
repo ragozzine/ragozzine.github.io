@@ -4,13 +4,14 @@ date: 2018-12-31
 slug: "2019-resolutions"
 draft: false
 tags: ["writing"]
-math: false
-toc: true
+excerpt_separator: <!--more-->
 ---
 
 I'm of the opinion that having one, solitary new year's resolution is a bit of a cop-out. A single resolution, while admirable, is invariably too simple to fail (eat more salad) or too massive to be measurable (be a better person). Better to aim for that overlapping sweet spot of the Venn diagram, maximizing both quality _and_ quantity.
 
 That being said, here are my goals for 2019.  
+
+<!--more-->
 
 ## Read more
 As a kid, I read constantly. From dinosaur books in grade school to the horrors of Stephen King in my early teens, it was rare for me not to have a stack of books in my room, waiting to be read. The geeky, strange _Far Side_ and pun-strewn _Xanth_ series by Piers Anthony probably shaped me most, resulting in my love of Dad jokes even before I became a biological father.
