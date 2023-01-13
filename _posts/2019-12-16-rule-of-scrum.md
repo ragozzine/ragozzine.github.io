@@ -1,16 +1,17 @@
 ---
 title: Rule of Scrum
-date: "Dec 16, 2019"
+date: 2019-12-16
 slug: "rule-of-scrum"
 draft: false
 tags: ["scrum", "agile coaching"]
-math: false
-toc: false
+excerpt_separator: <!--more-->
 ---
 
 As a scrum master and coach, I see the phrase “doing scrum wrong” thrown around a lot. Scrum practitioners often worry about making missteps, while detractors lambast scrum as being unrealistic and too rigid for how “the real world works.” In both cases, scrum is cast as a magical route through a maze of death traps (i.e. any project ever). Deviate from this hallowed path and you will surely wind up impaled at the bottom of a spike pit or crushed by a surprisingly spherical boulder.
 
-![](/images/boulder-creep.gif)
+![](/assets/images/boulder-creep.gif)
+
+<!--more-->
 
 I once heard a wonderful analogy likening scrum to basketball. At a basic level, basketball doesn’t have a lot of rules. Two teams of five compete, only being able to traverse the court by dribbling the ball without pause or passing. Teams score by shooting the ball into the opposing team’s hoop. Generally speaking, that’s it.
 
@@ -21,7 +22,7 @@ Scrum is a lot less controlling and complicated than people think. When you get 
 
 So what happens when the rules are broken? How are anti-scrummers punished? Well, they’re not. Scrum is a basic framework, not a morality play. There is no referee on a scrum team (no scrum-pire, if you will). The scrum master is there to educate the team about scrum, not rigidly and blindly enforce its doctrine no matter what.
 
-![](/images/joker-plan.gif)
+![](/assets/images/joker-plan.gif)
 
 Take, for example, a simple scrum ritual: the daily standup. Originating in the military, each morning team members would share what they would likely work on that day as well as what they accomplished the day before. If you work in a distributed company like me, your teams won’t be in the same time zones, so when the heck do you have the standup? I guess scrum just doesn’t work in this instance, said some doubting Mufasa.
 
