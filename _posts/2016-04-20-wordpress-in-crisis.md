@@ -3,7 +3,8 @@ title: "WordPress, In Crisis"
 date: 2016-04-20
 draft: false
 tags: ["wordpress"]
-showDate: true
+slug: "wordpress-in-crisis"
+excerpt_separator: <!--more-->
 ---
 
 One of the selling points for (the free software that is) WordPress is its user friendliness. Intuitive, accessible, open&mdash;all of these words are at the root of what WordPress is and why it is of such benefit to the publishing world. I largely agree with this.
@@ -11,6 +12,8 @@ One of the selling points for (the free software that is) WordPress is its user 
 That said, I know I am an insider (albeit peripherally) to the WordPress community, so need to remember that I am an unreliable narrator. Still, inspired by the [wonderful book “Design for Real Life“ by Sara Wachter-Boettcher and Eric Meyer](https://abookapart.com/products/design-for-real-life), I'm taking a critical eye to my CMS of choice. Comprised of examples of developer choices in language and quirkiness that hurt people in real-life, the book’s thesis aims to shift design thinking toward creating technology that is less assumptive, less witty, and therefore, less alienating.
 
 In choosing to examine WordPress&mdash;specifically its onboarding process&mdash;I’m not out to indict the product in any way. I know WP well, make my living from it, and honestly, when something [powers a huge chunk of the internet](http://w3techs.com/technologies/details/cm-wordpress/all/all), there exists the most potential to influence the web dev industry through leading by example.
+
+<!--more-->
 
 When it comes to the average WordPress user, not everyone who wants to publish content is a cat blogger or someone with a new theory on the shared Pixar universe. Some people—possibly a great number of them—are people in crisis. Perhaps it is someone who was abused and needs an outlet for their pain. Maybe a person recently lost a loved one and wishes to serially eulogize them. Whatever the reason, the question is: <strong>Does WordPress democratize the publishing experience for all, or only for those tonally similar to its light-hearted voice?</strong>
 
