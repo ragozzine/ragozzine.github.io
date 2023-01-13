@@ -5,12 +5,14 @@ slug: "two-capacities"
 draft: false
 tags: ["velocity"]
 math: true
-toc: false
+excerpt_separator: <!--more-->
 ---
 
 > It was the best of sprints, it was the worst of sprints.
 
 One reason I find scrum so invigorating stems from its reliance on compiling lots and lots of data. Back when I was getting my English degree, I never would have imagined how much I love plugging numbers into spreadsheets and adding formulas to those sheets that makes the numbers show me things. I think it’s the same instinct that gave me great pleasure in alphabetizing my CD collection in a giant black binder (back when I actually needed stacks of physical media *on my person* to enjoy music).
+
+<!--more-->
 
 ## Yesterday’s weather
 There’s a saying that people invariably attribute to wherever they live: if you don’t like the weather in [PLACE] wait five minutes. That said, more often than not, the opposite is true. A great way to predict tomorrow’s weather is to look at yesterday’s. You won’t always be right (and likely never exactly right), but you will be close enough to not die from exposure to the elements.
