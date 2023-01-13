@@ -4,8 +4,7 @@ date: 2016-01-03
 slug: "interrogative-pm"
 draft: false
 tags: ["pm", "poetry"]
-math: false
-toc: false
+excerpt_separator: <!--more-->
 ---
 
 Project management requires much asking  
@@ -16,6 +15,8 @@ But before productive action can start
 five basic questions need some addressing.  
 These _W_ queries allow the heart  
 of a project to beat without stressing.  
+
+<!--more-->
 
 When newspapers report on the here’n now  
 All are asked the Five: _who, what, when, where, why_  
