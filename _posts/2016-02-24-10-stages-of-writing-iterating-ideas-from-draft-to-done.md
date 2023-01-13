@@ -11,6 +11,8 @@ layout: post
 
 The writing process can make your brain feel like processed cheese (not to mention your self-esteem). Here are 10 steps for writing that will help you bridge the gap between one-and-done-drafts and that book chapter you’ve been rewriting for years.
 
+<!--more-->
+
 ## -1. I’m assuming you’re writing electronically.
 If your method is pen and paper, that’s really cool, but not what I am doing here. I will say that writing stuff out can be helpful for steps 1 and/or 2, but I find it just delays the true editing process. I’d rather have electronic text—typically Google Docs—at the ready, since it is more malleable and ready for iteration.
 
