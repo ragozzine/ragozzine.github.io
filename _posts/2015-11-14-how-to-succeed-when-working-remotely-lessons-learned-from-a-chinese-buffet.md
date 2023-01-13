@@ -4,19 +4,20 @@ date: 2015-11-14
 slug: "working-remotely"
 draft: false
 tags: ["remote work"]
-math: false
-toc: false
+excerpt_separator: <!--more-->
 ---
 
 Working from home can be an amazingly fulfilling career experience. Likewise, a trip to your local Chinese food buffet can be a culinary delight. But both can also be abjectly horrible. Here is my breakdown on how to succeed at working remotely without the debilitating pains of post-dumpling bloat.
-![](/images/chopsticks-keyboard.jpg)
+![](/assets/images/chopsticks-keyboard.jpg)
+
+<!--more-->
 
 ## Dress the part
 I am a great defender of Chinese food buffets. I know the food is not some five star affair, but damn it, I like it. What I don’t like, though, is the feeling I get when I look around at my culinary compatriots and see sweatpants being worn in public. This is the fashion choice of giving up in so many ways and when someone who decides that also decides on the same lunch place as me, my mind can’t help but draw parallels.
 
 As such, one of the best things you can do to when working remotely is to remember that it is still work. This is not a day off in lounge pants or a reason to stay in your PJs all day. You need to let your mind know that it’s game time, and you can do that by keeping a set schedule, showering daily (oh so tempting to skip a day but you will regret it), and wearing appropriate work clothing.
 
-![](/images/Footie-Pajamas.jpg)
+![](/assets/images/Footie-Pajamas.jpg)
 
 On the last point, I am not saying to get all gussied up every day in a business suit, but at the very least, [wear pants](http://scottberkun.com/yearwithoutpants/). I would strongly advise doing more than the bare minimum there and recommend wearing pants with some sort of clasp mechanism. No, drawstrings do not count. Not only does this make it feel more like work but, on those occasions you actually do have to leave your home office, you won’t have to experience the I-haven’t-worn-pants-in-months-and-now-nothing-I-own-fits-me-Insert-Cathy-Ack-Here blues.
 
