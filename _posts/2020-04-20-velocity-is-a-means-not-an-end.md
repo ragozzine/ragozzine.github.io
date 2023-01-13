@@ -1,14 +1,15 @@
 ---
 title: "Velocity Is a Means, Not an End"
 date: 2020-04-20
-slug: "velocity-is-a-means"
+slug: "velocity-is"
 draft: false
 tags: ["velocity"]
-math: false
-toc: false
+excerpt_separator: <!--more-->
 ---
 
 Being a scrum master, I often worry if velocity looms too large for me. From project forecasting to sprint planning to team retrospectives, velocity metrics are up in my grill more than bratwurst at a Green Bay Packers tailgate. Even from a “book learnin’” standpoint, velocity is front and center: “[The Scrum Master is accountable for the Velocity ... of the Team.](https://www.google.com/url?q=https://www.scruminc.com/scrum-master/&sa=D&ust=1587399635486000&usg=AFQjCNF42myQw1FhTlaBorVJdBQY9J0qSA)” That big V Velocity is really intimidating! But does velocity warrant such verbal (and mental) emphasis?
+
+<!--more-->
 
 Now, I am not saying that velocity isn’t an important metric. Velocity factors hugely into both planning attainable sprints and reliable deliverable dates. And frankly, high performing teams’ velocity goes up because they work more efficiently and effectively over time.  I have noticed a tendency to treat velocity as the be-all and end-all for measuring team success though, which can result in unnecessary anxiety and lowered team happiness, both of which lead to unstable teams, and ultimately, a reduction in overall velocity.
 
