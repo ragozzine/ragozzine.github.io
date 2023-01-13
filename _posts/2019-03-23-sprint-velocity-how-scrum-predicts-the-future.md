@@ -4,13 +4,14 @@ date: 2019-03-23
 slug: "sprint-velocity-future"
 draft: false
 tags: ["velocity"]
-math: false
-toc: false
+excerpt_separator: <!--more-->
 ---
 
 A common question I am asked is “How will scrum deliver my projects on time?” and the honest answer is: _it may not_. Scrum is not a cure-all that can somehow force 10lbs of crap into a 5lbs bag. If a project contains too much scope and not enough time to do everything nothing can change that (especially not by adding more people to the mix).
 
 That said, the power of scrum comes from its ability to make visible the data necessary to develop a fairly accurate completion window. This is accomplished by tracking a team’s velocity sprint-over-sprint and extrapolating a trendline from these data.
+
+<!--more-->
 
 ## What is velocity and how do I get some?
 On its face, velocity is a pretty simple concept. It is the sum of the story points attached to the work a team completes in a set amount of time (a sprint). However, there are myriad mitigating circumstances that can undercut its value:
@@ -35,7 +36,7 @@ This [template](https://docs.google.com/spreadsheets/d/1SDUb8vYjY7caB2_nIH3qQWRa
 
 Tab _ZYX_ is where the magic happens. At the end of each sprint, I enter the amount of story points completed in Column C, letting the sheet do the rest of the work for me. A trendline is automatically plotted based on these data. This tab also feeds data back into the _datatab_ view, calculating the amount of story points left in the project. As you can see, the team is right on track to finish the whole ZYX project the first week of August.
 
-![](/images/burnup-chart.png)
+![](/assets/images/burnup-chart.png)
 
 The other tabs show how a burnup handles more true-to-life situations: _ZYX (slow)_ for a team that is dealing with low velocity, _ZYX (early)_ for a team that is increasing their velocity through efficiency gains, and _ZYX (scope change)_, which shows how a burnup can accommodate an agreed upon scope increase&mdash;here showing that 50 more story points were added at the beginning of July.
 
