@@ -4,7 +4,7 @@ date: 2020-04-02
 slug: "two-capacities"
 draft: false
 tags: ["velocity"]
-math: true
+mathjax: true
 excerpt_separator: <!--more-->
 ---
 
@@ -23,7 +23,7 @@ With enough successful sprints in the rearview mirror, teams gain more and more 
 
 Before sprint planning, the scrum master needs to figure out yesterday’s weather. This is done by taking the amount of completed story points from the last three sprints and calculating their average - easy peasy. Let’s say we have a team using one-week sprints (which is what I run, after some initial apprehension, and now longer sprints seem insane to me). This team’s historical data goes like this: 77 story points (sp) for the sprint from 3 weeks ago (s3wa), 89 sp in s2wa, and 81 sp in s1wa. How much work can this team confidently say they can complete in the next sprint?
 
-$$(77sp+89sp+81sp)/3sprints=82.\overline{333} \text{ or } 82sp$$
+$$ (77sp+89sp+81sp)/3sprints=82.\overline{333} \text{ or } 82sp $$
 
 This hypothetical team has the *capacity* to commit to 82 story points for their next sprint with confidence. While not a locked-in guarantee that they will complete 82 story points, they are very likely to do so. Making a data-driven plan eases a team’s anxiety around work, as well as provides readily available context of expected progress for all stakeholders involved.
 
