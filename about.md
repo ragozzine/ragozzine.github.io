@@ -1,7 +1,6 @@
 ---
 title: "About Me"
-layout: default
-sitemap: false
+layout: page
 ---
 
 Hi, I'm John Ragozzine! I'm the Director of Agile at [Alley](https://alley.co/), a fully remote web agency running Scrum at scale (but not, like Scrum@Scale, if you know what I mean). I serve as Scrum Master for one of our client services teams, as well as work closely with all of Alley’s SMs, both as a collaborator and an Agile Coach.
