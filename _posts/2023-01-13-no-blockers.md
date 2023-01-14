@@ -1,6 +1,6 @@
 ---
 title: "No Blockers"
-date: 2015-09-29
+date: 2023-01-13
 slug: "no-blockers"
 draft: false
 tags: ["scrum", "agile"]
